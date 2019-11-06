@@ -18,6 +18,9 @@ function App() {
         >
           Learn React With Passion. In coding or development you only need to have passion.
         </a>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro vel quaerat aliquam ipsa minus numquam illum voluptates quidem consequuntur voluptate! Sit fugiat, officiis ipsum eum deserunt dolorem assumenda sequi ullam?
+        </p>
       </header>
     </div>
   );
