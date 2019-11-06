@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React With Passion. In coding or development you only need to have passion.
         </a>
       </header>
     </div>
